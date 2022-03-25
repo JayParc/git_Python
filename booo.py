@@ -1,0 +1,11 @@
+print(100 == 1000)
+print(100 != 1000)
+print(100 < 1000)
+print(100 <= 1000)
+print(100 >= 1000)
+print(100 > 1000)
+n=6>5
+print(n)
+print(type(True))
+print(type(False))
+print(type(n))
